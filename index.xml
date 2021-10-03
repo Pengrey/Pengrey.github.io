@@ -13,6 +13,6 @@
     <author>Author</author>
     <guid>http://example.org/first_post/</guid>
     <description><![CDATA[This article is for testing purposes.
-1 Test 2 Test ]]></description>
+1 Test 2 Test This is danger  A danger banner     Work in progress   ]]></description>
 </item></channel>
 </rss>
