@@ -1,22 +1,16 @@
 # Hello World
 
+<!--more-->
+{{< figure src="/images/first_post/featured.gif">}}
 
-This article is for testing purposes.
+This article is my first post, as per tradition its an "Hello World" post. 
 
-## 1 Test
+<br/>
 
-### 2 Test
+## Upcoming
+The following articles will be focused on tryhackme room writeups.
 
-{{< admonition type=danger title="This is danger" open=false >}}
-A **danger** banner
-{{< /admonition >}}
+See you soon.
 
-{{< mermaid >}}
-pie
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 15
-{{< /mermaid >}}
 
-{{< figure src="/images/first_post/featured-image.jpg" title="Work in progress" >}}
 
